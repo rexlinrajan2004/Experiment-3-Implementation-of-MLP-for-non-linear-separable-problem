@@ -1,13 +1,11 @@
 ### Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem
 ## AIM:
-```
 To implement a perceptron for classification using Python
-```
+
 ## EQUIPMENTS REQUIRED:
-```
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
-```
+
 ## RELATED THEORETICAL CONCEPT:
 
 Exclusive or is a logical operation that outputs true when the inputs differ.For the XOR gate, the TRUTH table will be as follows
@@ -133,6 +131,5 @@ predict(w1,w2,test)
 
 
 ## RESULT:
-```
 Thus a MLP is implemented for non linear separable problem using Python.
-```
+
